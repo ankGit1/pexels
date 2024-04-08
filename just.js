@@ -24,6 +24,8 @@ const divideNum = () => {
   return count;
 };
 
+// you can add more functions
+
 addNum(nums);
 subNum(nums);
 divideNum(nums);
